@@ -9,6 +9,7 @@
 - Python
 - Flask
 - Cloud Vision API
+- Postman
 
 ---
 
