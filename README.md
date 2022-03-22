@@ -30,6 +30,9 @@ $ Script\activate
 ```
 
 5. Install dependency
+```html
+$ pip install -r requirements.txt
+```
 
 ---
 
