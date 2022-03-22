@@ -3,9 +3,33 @@
 
 ---
 
+# Requirements
+- Git
+- Heroku
+- Python
+- Flask
+- Cloud Vision API
+
+---
+
 # Installation
-1. Create a python virtual environment
-2. Activate python virtual environment
+1. Clone this repository 
+```html
+$ git clone 
+```
+2. Create a python virtual environment
+```html
+$ python -m venv myApp
+```
+
+3. Copy all the files into the virtual environment
+4. Activate python virtual environment
+```html
+$ cd myApp
+$ Script\activate
+```
+
+5. Install dependency
 
 ---
 
