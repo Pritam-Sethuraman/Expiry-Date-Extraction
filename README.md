@@ -17,7 +17,12 @@
 ```html
 $ winget install --id Git.Git -e --source winget
 ```
+
 - Heroku CLI
+```html
+$ npm install -g heroku
+```
+
 - Cloud Vision API
 
 ---
