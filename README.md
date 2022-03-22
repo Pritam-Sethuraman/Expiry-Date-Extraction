@@ -15,7 +15,7 @@
 # Installation
 1. Clone this repository 
 ```html
-$ git clone 
+$ git clone https://github.com/Pritam-Sethuraman/Expiry-Date-Extraction.git
 ```
 2. Create a python virtual environment
 ```html
