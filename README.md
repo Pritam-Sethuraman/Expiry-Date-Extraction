@@ -13,6 +13,13 @@
 ---
 
 # Installation
+- Git
+- Heroku CLI
+- Cloud Vision API
+
+---
+
+# How to Use
 1. Clone this repository 
 ```html
 $ git clone https://github.com/Pritam-Sethuraman/Expiry-Date-Extraction.git
