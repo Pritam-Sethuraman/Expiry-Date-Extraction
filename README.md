@@ -72,6 +72,7 @@ $ heroku create myPythonApp
 $ git push heroku master
 ```
 
+10. The web app will be deployed at  http://myPythonApp.herokuapp.com
 
 ---
 
