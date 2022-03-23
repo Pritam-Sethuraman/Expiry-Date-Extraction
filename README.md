@@ -24,8 +24,6 @@ $ winget install --id Git.Git -e --source winget
 $ npm install -g heroku
 ```
 
-- Cloud Vision API
-
 ---
 
 # How to Use
