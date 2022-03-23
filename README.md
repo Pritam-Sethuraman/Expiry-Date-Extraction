@@ -50,6 +50,29 @@ $ Script\activate
 $ pip install -r requirements.txt
 ```
 
+6. Initialising emptyrepository and adding all the files to it
+```html
+$ git init
+$ git add .
+$ git commit -m "Final Commit"
+```
+
+7. Heroku CLI Login
+```html
+$ heroku login
+```
+
+8. Create a web app on Heroku
+```html
+$ heroku create myPythonApp
+```
+
+9. Push the code from local repo to Heroku
+```html
+$ git push heroku master
+```
+
+
 ---
 
 # License
