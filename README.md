@@ -64,7 +64,7 @@ $ heroku login
 
 8. Create a web app on Heroku
 ```html
-$ heroku create myPythonApp
+$ heroku create mypythonapp
 ```
 
 9. Push the code from local repo to Heroku
@@ -72,7 +72,7 @@ $ heroku create myPythonApp
 $ git push heroku master
 ```
 
-10. The web app will be deployed at  http://myPythonApp.herokuapp.com
+10. The web app will be deployed at  http://mypythonapp.herokuapp.com
 
 ---
 
