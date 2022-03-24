@@ -16,12 +16,12 @@
 # Installation
 - Git
 ```html
-$ winget install --id Git.Git -e --source winget
+winget install --id Git.Git -e --source winget
 ```
 
 - Heroku CLI
 ```html
-$ npm install -g heroku
+npm install -g heroku
 ```
 
 ---
@@ -29,45 +29,45 @@ $ npm install -g heroku
 # How to Use
 1. Clone this repository 
 ```html
-$ git clone https://github.com/Pritam-Sethuraman/Expiry-Date-Extraction.git
+git clone https://github.com/Pritam-Sethuraman/Expiry-Date-Extraction.git
 ```
 2. Create a python virtual environment
 ```html
-$ python -m venv myApp
+python -m venv myApp
 ```
 
 3. Copy all the files into the virtual environment
 4. Activate python virtual environment
 ```html
-$ cd myApp
-$ Script\activate
+cd myApp
+Script\activate
 ```
 
 5. Install dependency
 ```html
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 6. Initialising emptyrepository and adding all the files to it
 ```html
-$ git init
-$ git add .
-$ git commit -m "Final Commit"
+git init
+git add .
+git commit -m "Final Commit"
 ```
 
 7. Heroku CLI Login
 ```html
-$ heroku login
+heroku login
 ```
 
 8. Create a web app on Heroku
 ```html
-$ heroku create mypythonapp
+heroku create mypythonapp
 ```
 
 9. Push the code from local repo to Heroku
 ```html
-$ git push heroku master
+git push heroku master
 ```
 
 10. The web app will be deployed at  http://mypythonapp.herokuapp.com
